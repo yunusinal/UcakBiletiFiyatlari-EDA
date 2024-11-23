@@ -1,6 +1,7 @@
 Bu proje, havayolu verilerinin detaylı bir şekilde keşifsel veri analizi (EDA) yöntemleriyle incelenmesini hedeflemektedir. 
 Veriler üzerinde yapılan analizler, hem veri setinin özelliklerini anlamayı hem de anlamlı ilişkiler ve dağılımlar tespit etmeyi amaçlamaktadır.
 
+**Projenin Kaggle Linkine Burdan Ulaşabilirsiniz:** [](https://www.kaggle.com/code/yunus5/ucakbiletifiyatlar-eda)
 ### *Proje kapsamında aşağıdaki işlemler gerçekleştirilmiştir:*
 - Veri temizleme ve eksik değer analizi
 - Kategorik ve sayısal değişkenlerin dağılımlarının görselleştirilmesi
